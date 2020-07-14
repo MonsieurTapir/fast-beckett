@@ -1,4 +1,5 @@
-# Search Algorithm for Beckett-Gray codes
+Search Algorithm for Beckett-Gray codes
+===
 ## What are Beckett-Gray codes
 For any integer *n*, a *n*-dimensional Gray code is a Hamiltonian cycle of the *n*-dimensional hypercube. A Beckett-Gray code has the additionnal property that it can be traversed in a direction ensuring that whenever a bit is turned off it must be the one that has been on for the longest time.
 ### Articles 
